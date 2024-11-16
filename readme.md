@@ -2,6 +2,9 @@
 
 An interactive web application that generates unique children's stories using Google's Gemini AI. Built with Next.js, TypeScript, and Tailwind CSS.
 
+![image](https://github.com/user-attachments/assets/a1b745a4-ca35-4cc6-9b44-5f9602024f40)
+
+
 ## 🌟 Features
 
 - Real-time story generation based on user prompts
